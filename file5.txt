@@ -1,2 +1,3 @@
 this is file5.txt
 this is new changes - bug fixes
+this is new changes from local machine - another bug fixes
