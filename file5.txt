@@ -1,1 +1,6 @@
 this is file5.txt
+<<<<<<< HEAD
+=======
+this is new changes - bug fixes
+this is new changes from local machine - another bug fixes
+>>>>>>> f0b9de9... another bug fixes on file5.txt
